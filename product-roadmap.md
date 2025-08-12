@@ -74,13 +74,3 @@ SkillTrust is an iOS application that serves as a trust-aggregation layer for th
 | **Toptal** | Vetted Top 3% Talent | Proprietary Screening | Delivers similar trust at broader scale and no search cost |
 
 ---
-
-## 9. Resume-Ready Highlights
-
-**SkillTrust – iOS Freelancer Trust Platform**
-- Built a SwiftUI-based iOS MVP to address fragmented trust signals in the freelance economy  
-- Designed reusable components for profile views, search results, and skill score visualizations  
-- Created JSON mock data simulating aggregated cross-platform reviews  
-- Defined MVP scope, personas, and competitive positioning to guide development  
-
----
